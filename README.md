@@ -17,4 +17,4 @@ Aprenda na prática como usar listas (arrays)<br />
 Entenda como evitar código duplicado com laços de repetição<br />
 Desenvolva sua lógica de programação
 
-![Screenshot_4](https://user-images.githubusercontent.com/65931981/206862070-868e44b1-311a-45b4-8746-f853dd3b64b0.png)
+![image](https://user-images.githubusercontent.com/65931981/208199477-3a3d093f-d41f-422d-ba9d-d13932b73f39.png)
