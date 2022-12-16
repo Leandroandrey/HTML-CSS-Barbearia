@@ -1,7 +1,7 @@
 # HTML5 e CSS3 parte 2: posicionamento, listas e navegação
 
-| :placard: Vitrine.Dev| https://cursos.alura.com.br/vitrinedev/Leandroandrey
-| -------------  | --- |
+|:placard: Vitrine.Dev| https://cursos.alura.com.br/vitrinedev/Leandroandrey
+|-------------  | --- |
 |:sparkles: Nome        | **HTML5 e CSS3 - posicionamento, listas e navegação**
 | :label: Tecnologias |  HTML5 e CSS3 (tecnologias utilizadas)
 | :rocket: Certificados 1        | https://cursos.alura.com.br/user/Leandroandrey/course/html5-css3-posicionamento-listas-navegacao/certificate
