@@ -4,7 +4,8 @@
 | -------------  | --- |
 | :sparkles: Nome        | **HTML5 e CSS3 - posicionamento, listas e navegação**
 | :label: Tecnologias |  HTML5 e CSS3 (tecnologias utilizadas)
-| :rocket: URL         | https://cursos.alura.com.br/user/Leandroandrey/course/javascript-listas-lacos/certificate
+| :rocket: URL         | https://cursos.alura.com.br/user/Leandroandrey/course/html5-css3-posicionamento-listas-navegacao/certificate
+https://cursos.alura.com.br/user/Leandroandrey/course/html5-css3-primeiros-passos/certificate
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](![Screenshot_4](https://user-images.githubusercontent.com/65931981/206862070-868e44b1-311a-45b4-8746-f853dd3b64b0.png)#vitrinedev)
