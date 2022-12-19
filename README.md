@@ -1,5 +1,4 @@
 # HTML5 e CSS3 parte 2: posicionamento, listas e navegação
-
 | :placard: Vitrine.Dev| https://cursos.alura.com.br/vitrinedev/Leandroandrey
 | -------------  | --- |
 | :sparkles: Nome        | **HTML5 e CSS3 - crie uma página da Web, posicionamento, listas e navegação, trabalhando com formulários e tabelas**
