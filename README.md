@@ -1,6 +1,6 @@
 # HTML5 e CSS3
 | :placard: Vitrine.Dev| https://cursos.alura.com.br/vitrinedev/Leandroandrey
-| --- |
+| -------------  | --- |
 | :sparkles: Nome        | **HTML5 e CSS3 - crie uma página da Web, posicionamento, listas e navegação, trabalhando com formulários e tabelas**
 | :label: Tecnologias |  HTML5 e CSS3 (tecnologias utilizadas)
 | :rocket: Certificados 1       | https://cursos.alura.com.br/user/Leandroandrey/course/html5-css3-posicionamento-listas-navegacao/certificate
