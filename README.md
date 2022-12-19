@@ -11,7 +11,15 @@
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](![Screenshot_4](https://user-images.githubusercontent.com/65931981/206862070-868e44b1-311a-45b4-8746-f853dd3b64b0.png)#vitrinedev)
 
-## Desafio do projeto 2
+## Desafio do projeto - 1
+
+Aprenda o que é o HTML e o CSS<br />
+Entenda a estrutura básica de um arquivo HTML<br />
+Utilize o navegador para inspecionar elementos<br />
+Aprenda a definir estilos para elementos usando o CSS<br />
+Desenvolva um página Web<br />
+
+## Desafio do projeto - 2
 
 Aprenda a estrutura da página HTML<br />
 Navegue entre páginas web<br />
@@ -19,7 +27,7 @@ Conheça reset.css e o posicionamento pelo CSS<br />
 Entenda a diferença entre inline e block<br />
 Lide com bordas e pseudo-classes CSS<br />
 
-## Desafio do projeto 3
+## Desafio do projeto - 3
 
 Crie formulários complexos<br />
 Trabalhe com campos para celulares<br />
