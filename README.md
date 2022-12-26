@@ -38,12 +38,11 @@ Trabalhe com transformações e transições
 
 ## Desafio do projeto - 4
 
-Adaptando a página inicial<br />
-Conteúdo externo<br />
-Melhorando o CSS<br />
-Selecionando qualquer coisa<br />
-Opacidade e sombra<br />
-Design responsivo<br />
+Importe conteúdo externo na sua página HTML, como fontes, vídeos e mapas<br />
+Conheça pseudo-classes e pseudo-elementos<br />
+Use seletores de CSS avançados<br />
+Saiba como lidar com opacidade e sombra<br />
+Entenda sobre o Viewport e design responsivo<br />
 Adaptação para Mobile
 
 ## Home
