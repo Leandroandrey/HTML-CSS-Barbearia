@@ -1,7 +1,7 @@
 # HTML5 e CSS3
 | :placard: Vitrine.Dev| https://cursos.alura.com.br/vitrinedev/Leandroandrey
 | -------------  | --- |
-| :sparkles: Nome        | **HTML5 e CSS3 - crie uma página da Web (Barbearia Alura)**
+| :sparkles: Nome        | **HTML5 e CSS3 - criando uma página Web (Barbearia Alura)**
 | :label: Tecnologias |  HTML5 e CSS3 (tecnologias utilizadas)
 | :rocket: Certificados 1       | https://cursos.alura.com.br/user/Leandroandrey/course/html5-css3-posicionamento-listas-navegacao/certificate
 | :rocket: Certificados 2       | https://cursos.alura.com.br/user/Leandroandrey/course/html5-css3-primeiros-passos/certificate
