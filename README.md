@@ -38,12 +38,12 @@ Trabalhe com transformações e transições
 
 ## Desafio do projeto - 4
 
-Adaptando a página inicial
-Conteúdo externo
-Melhorando o CSS
-Selecionando qualquer coisa
-Opacidade e sombra
-Design responsivo
+Adaptando a página inicial<br />
+Conteúdo externo<br />
+Melhorando o CSS<br />
+Selecionando qualquer coisa<br />
+Opacidade e sombra<br />
+Design responsivo<br />
 Adaptação para Mobile
 
 ## Home
